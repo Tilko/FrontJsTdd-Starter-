@@ -1,6 +1,6 @@
 
 const port = 1234;
-const url = `http://127.0.0.1:1234/${port}`;
+const url = `http://127.0.0.1:${port}/`;
 
 describe("", () => {
     beforeEach(() => {
