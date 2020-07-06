@@ -5,3 +5,10 @@ To install plugin that reload tests when a file in the folder specified by ""cyp
 
 ```npm install cypress-watch-and-reload```
 
+
+
+Global install:
+* knockout:
+➜  ~ npm install -g bower
+➜  ~ proj > bower install knockout 
+
